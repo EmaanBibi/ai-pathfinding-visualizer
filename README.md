@@ -131,7 +131,7 @@ ai-pathfinding-visualizer/
 **Emaan Bibi** — BS Artificial Intelligence, COMSATS University Islamabad, Attock Campus
 
 - GitHub: `https://github.com/EmaanBibi`
-- LinkedIn: `https://www.linkedin.com/in/<your-profile>`
+- LinkedIn: `https://www.linkedin.com/in/emaan-bibi-b46311452/`
 
 ## 📄 License
 
