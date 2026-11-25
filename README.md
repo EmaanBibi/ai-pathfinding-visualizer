@@ -128,7 +128,7 @@ ai-pathfinding-visualizer/
 
 ## 👩‍💻 Author
 
-**Your Name** — BS Artificial Intelligence, COMSATS University Islamabad, Attock Campus
+**Emaan Bibi** — BS Artificial Intelligence, COMSATS University Islamabad, Attock Campus
 
 - GitHub: `https://github.com/<your-username>`
 - LinkedIn: `https://www.linkedin.com/in/<your-profile>`
