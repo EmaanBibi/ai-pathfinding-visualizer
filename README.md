@@ -60,7 +60,7 @@ f(n) = g(n) + h(n)
 
 ```bash
 # 1. Clone the repository (or download the ZIP from GitHub)
-git clone https://github.com/<your-username>/ai-pathfinding-visualizer.git
+git clone git clone https://github.com/EmaanBibi/ai-pathfinding-visualizer.git
 cd ai-pathfinding-visualizer
 
 # 2. (Optional) create a virtual environment
@@ -103,7 +103,6 @@ ai-pathfinding-visualizer/
 ├── main.py            # The whole app: algorithms + visualizer
 ├── requirements.txt   # Python dependencies
 ├── README.md          # You are here
-└── LINKEDIN_GUIDE.txt # Tips and copy-paste text for LinkedIn
 ```
 
 ---
